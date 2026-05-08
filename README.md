@@ -1,30 +1,29 @@
-# githubtest
-pagina github
-# 🚀 Proyecto: Mi Primera Maquetación Web
-Este es mi primer repositorio para la **Tecnicatura en Tecnología Web**. Aquí estoy poniendo a prueba los conceptos básicos de estructura HTML5 y control de versiones.
+# ReadME
+##  Proyecto para programación web 1: Sitio web estático
 
----
+# Se aplicaran los conceptos y herramientas adquiridas a lo largo de la cursada de la materia, son los siguiente: 
+ → * Documentos HTML
+ 🔧  * fnrfurf
+ →    * infern
+ →    * inenr
+ →    * enfr    
+ →    * rjnrju
+ →    * fkfkk
+ 
+ ## Contenido del sitio web 📄
 
-## 📝 Descripción
-Este sitio es un ejercicio de práctica donde estoy implementando:
-* Estructura de documentos HTML (head, body, metadata).
-* Uso de etiquetas semánticas.
-* Gestión de recursos (imágenes y enlaces).
-* Sincronización con GitHub.
+ * nerjnr
+ * dojnfo
+ * jnfjnfr
 
-## 🛠️ Tecnologías utilizadas
-* **HTML5**: Estructura del contenido.
-* **Markdown**: Para este archivo de documentación.
-* **Sublime Text**: Mi editor de código preferido.
+ ## Datos del estudiante
+ * Camilo Raño 
+ * documento
+ * 
 
-## 👤 Información del Estudiante
-* **Nombre:** [Tu Nombre Completo Aquí]
-* **Año:** 1er Año - 2026
-* **Materia:** Programación Web 1
+ ## Ayuda para ingresar 
 
-## 🔗 Ver el sitio en vivo
-Puedes ver cómo quedó la página funcionando aquí:
-👉 [PEGA AQUÍ TU LINK DE GITHUB PAGES]
+ ** ingrese aqui, por favor
 
----
-*Nota: Este proyecto está en constante evolución a medida que avanzamos en las clases.*
+ ➡️ [ link ]
+
